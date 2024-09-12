@@ -10,7 +10,7 @@ A seguir, você encontra mais informações sobre:
 * Sincronização  
 
 
-### Serviços disponíveis
+### Usuários
 
 Todos os serviços da Bytebank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
 
