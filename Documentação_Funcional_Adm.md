@@ -27,13 +27,17 @@ Vai abrir a seguinte página, você deve preencher conforme as informações do 
 
 ![image](https://github.com/user-attachments/assets/fe8dff8a-4bf1-4ef4-a296-c0f6ca4ef1df)
 
+Dentro da área que você necessita preencher fique atento ao tipo de usuário que vai selecionar.
 
-### Para quem é a Bytebank? 
 
-Para todas as pessoas que buscam liberdade e praticidade na hora de cuidar de sua vida financeira. Se você tem mais de 18 anos, pode criar sua conta acessando o nosso site e seguindo os passos indicados. 
+### Prefeitura
+O segundo tópico dentro de *Administração* vai se tratar do campo que demonstra o munícipio ao qual você pertence.
 
-No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto responsável realize a abertura de conta e seja o responsável financeiro. 
+### Sincronização
+O últímo tópico está relacionado com a ferramenta do GOVERNO chamada de SETE. A sincronização está relacionado com a trasnferência dos dados que coletamos durante as rotas como número de aluno, rotas, motoristas, veículos e entre outros.
 
-### Crie sua conta
+A relação de ambos são para o governo ter acesso à todas as informações. Segue o passo a passo para realizar a sincronização:
 
-Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [**Como criar sua conta**](URL)
+1. Primeiro item
+
+Você deve abrir o SETE e excluir os dados que estão lá.
