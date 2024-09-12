@@ -1,13 +1,6 @@
-## Modelo de documentação funcional
+# Sister Tecnologia e Inovação
 
-### Contexto 
-A documentação funcional é o tipo de documento que apresenta um produto, funcionalidade ou serviço. Costuma ser uma das primeiras documentações que você acessa em um portal de desenvolvimento porque ela contextualiza o seu produto ao usuário. 
-
-## Exemplo de documentação 
-
-# Sister 
-
-A ByteBank é um banco digital que foi criado com objetivo de simplificar a vida financeira dos brasileiros. 
+A Sister é uma empresa que visa a otimização de rotas para auxiliar as prefeituras municipais no transporte escolar. 
 
 A seguir, você encontra mais informações sobre: 
 
