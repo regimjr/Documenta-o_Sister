@@ -12,7 +12,8 @@ A seguir, você encontra mais informações sobre:
 
 ### Usuários
 
-Todos os serviços da Bytebank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
+
+![usuarios](https://github.com/user-attachments/assets/2a101e31-6739-4eb6-a2a4-5e10669cea74)
 
 ### Para quem é a Bytebank? 
 
