@@ -4,9 +4,10 @@ A Sister é uma empresa que visa a otimização de rotas para auxiliar as prefei
 
 A seguir, você encontra mais informações sobre: 
 
-* Serviços disponíveis
-* Para quem é a Bytebank?
-* Como criar sua conta  
+## Aba Administração
+* Usuários
+* Prefeituras
+* Sincronização  
 
 
 ### Serviços disponíveis
