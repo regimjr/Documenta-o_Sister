@@ -11,8 +11,9 @@ A seguir, você encontra mais informações sobre:
 
 
 ### Usuários
-
-
+- Primeiro item
+Vamos entrar no https://pub.sister.app.br/#/user/list
+Logo em seguida vamos ser direcionado para a página inicial do site SISTER, logo em seguida devemos seguir clicar em Administração e depois em Usuários.
 ![usuarios](https://github.com/user-attachments/assets/2a101e31-6739-4eb6-a2a4-5e10669cea74)
 
 ### Para quem é a Bytebank? 
