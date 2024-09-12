@@ -18,6 +18,7 @@ Logo em seguida vamos ser direcionado para a página inicial do site SISTER, em 
 
 - Segundo item
 Clicar em cadastrar
+
 ![image](https://github.com/user-attachments/assets/bd702eaf-c82a-4a2d-bbfc-5e35e9d7ed97)
 
 
