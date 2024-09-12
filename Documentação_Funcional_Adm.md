@@ -9,6 +9,8 @@ A seguir, você encontra mais informações sobre:
 * Prefeituras
 * Sincronização  
 
+### Sobre como funciona essa área da administração 
+O primeiro login que vamos gerar vem da nossa parte 
 
 ### Usuários
 1. Primeiro item
