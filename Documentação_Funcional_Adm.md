@@ -10,7 +10,7 @@ A seguir, você encontra mais informações sobre:
 * Sincronização  
 
 ### Sobre como funciona essa área da administração 
-O primeiro login que vamos gerar vem da nossa parte 
+O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site.
 
 ### Usuários
 1. Primeiro item
