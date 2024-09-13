@@ -44,3 +44,5 @@ O SETE é uma ferramenta do desenvolvida pela Universidade Federal voltado a aux
   Você acessa o site https://www.fnde.gov.br/sete/src/renderer/login-view.html e registra o munícipio ao qual você pertence.
 2. Segundo item
    Em seguida, você deve aguardar para seu login ser aceito. Assim que aceito você envia para o pessoal da SISTER realizar a sincronização.
+
+Apos realizar esse passo a passo, a sincronização passa a ser parte da equipe SISTER e somos nós que realizamos as atualizações para o governo.
