@@ -38,8 +38,9 @@ O segundo tópico dentro de *Administração* vai se tratar do campo que demonst
 ### Sincronização
 O últímo tópico está relacionado com a ferramenta do GOVERNO chamada de SETE. A sincronização está relacionado com a trasnferência dos dados que coletamos durante as rotas como número de aluno, rotas, motoristas, veículos e entre outros.
 
-A relação de ambos são para o governo ter acesso à todas as informações. Segue o passo a passo para realizar a sincronização:
+O SETE é uma ferramenta do desenvolvida pela Universidade Federal voltado a auxiliar na gestão do transporte escolar de estados, municípios.
 
 1. Primeiro item
-
-O SETE é uma ferramenta do desenvolvida pela Universidade Federal voltado a auxiliar na gestão do transporte escolar de estados, municípios.
+  Você acessa o site https://www.fnde.gov.br/sete/src/renderer/login-view.html e registra o munícipio ao qual você pertence.
+2. Segundo item
+   Em seguida, você deve aguardar para seu login ser aceito. Assim que aceito você envia para o pessoal da SISTER realizar a sincronização.
