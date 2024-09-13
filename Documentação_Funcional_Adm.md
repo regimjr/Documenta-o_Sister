@@ -17,10 +17,11 @@ O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a 
 Vamos entrar no https://pub.sister.app.br/#/user/list
 Logo em seguida vamos ser direcionado para a página inicial do site SISTER, em sequência devemos seguir clicar em Administração e depois em Usuários.
 ![image](https://github.com/user-attachments/assets/e9b50a78-21ac-4920-87a4-1a774e424c95)
-![usuarios](https://github.com/user-attachments/assets/2a101e31-6739-4eb6-a2a4-5e10669cea74)
 
 2. Segundo item
 Clicar em cadastrar
+
+![image](https://github.com/user-attachments/assets/c22f471a-ea34-40a7-b974-cf1078cbd7ab)
 
 ![image](https://github.com/user-attachments/assets/bd702eaf-c82a-4a2d-bbfc-5e35e9d7ed97)
 
