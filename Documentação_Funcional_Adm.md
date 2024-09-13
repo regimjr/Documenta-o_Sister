@@ -42,4 +42,4 @@ A relação de ambos são para o governo ter acesso à todas as informações. S
 
 1. Primeiro item
 
-Você deve abrir o SETE e excluir os dados que estão lá.
+O SETE é uma ferramenta do desenvolvida pela Universidade Federal voltado a auxiliar na gestão do transporte escolar de estados, municípios.
