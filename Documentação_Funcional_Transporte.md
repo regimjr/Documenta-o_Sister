@@ -17,6 +17,8 @@ Outro tópico abordado dentro de Transporte é o cadastro de motoristas. Para re
 ## Monitores
 Outro tópico abordado dentro de Transporte é o cadastro de monitores. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se, monitores são as pessoas além do motorista que é responsável por cuidar e prestar suporte para os alunos.
 
+## APP Motorista
+Essa aba, demonstra o simples fato do jeito que deve ser realizado o CHECK-IN do aluno que utilizar o serviço.
 
 
 
