@@ -20,7 +20,8 @@ Outro tópico abordado dentro de Transporte é o cadastro de monitores. Para rea
 ## APP Motorista
 Essa aba, demonstra o simples fato do jeito que deve ser realizado o CHECK-IN do aluno que utilizar o serviço.
 
-
+## Tipo De Frota
+A câmera municipal deve informar os possíveis tipos de frota, como por exemplo, se é frota da própria prefeitura ou se é frota terceirizada.
 
 
 
