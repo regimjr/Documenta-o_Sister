@@ -18,3 +18,14 @@ As rotas congeladas, são as rotas que já foram realizadas e está tudo certo. 
 
 ### Observação
 Para congelar a rota, é preciso antes fazer a análise dela em ***viagens***.
+
+## Rotas Previstas
+A rota prevista é uma rota que vai ser programada para o dia seguinte.
+
+## Viagens
+Dentro de viagens, é uma das principais partes que é onde você vai definir se aquela rota necessita ser congelada ou não. Sempre atento a quilometragem que a viagem tem, quantidade de alunos e se o traçado que o motorista fez está bom. 
+Por exemplo:
+
+![image](https://github.com/user-attachments/assets/099fb08a-6143-4fe7-83a8-8a478af75856)
+
+
