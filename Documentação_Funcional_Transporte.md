@@ -14,6 +14,13 @@ Para obter a localização mais precisa da fazenda, peça ao motorista para comp
 ## Motoristas
 Outro tópico abordado dentro de Transporte é o cadastro de motoristas. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se à qualidade da foto que deve ser inserida do documento, contendo todos os dados e que os mesmos estejam legíveis.
 
+### Observação
+Depois de cadastrar o motorista é necessário cadastrar e relacionar o motorista à um veículo.
+Para realizar essa ação deve seguir o seguinte passo a passo
+
+![image](https://github.com/user-attachments/assets/49da7b6d-d736-49de-8639-d7870863da62)
+
+
 ## Monitores
 Outro tópico abordado dentro de Transporte é o cadastro de monitores. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se, monitores são as pessoas além do motorista que é responsável por cuidar e prestar suporte para os alunos.
 
