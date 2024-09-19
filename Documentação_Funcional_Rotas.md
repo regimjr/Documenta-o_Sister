@@ -24,8 +24,15 @@ Abrir as rotas congeladas e clicar no botão verde, visualizar assim como mostra
 
 ![image](https://github.com/user-attachments/assets/44805f02-1a1c-44f5-9381-cf2dd94cc466)
 
+### Segundo passo: 
+É necessário seguir clicando em alterar dados da rota
 
+![image](https://github.com/user-attachments/assets/4f6d1690-42f8-4a64-a8fb-82cfcbe16ce9)
 
+### Terceiro passo:
+Basta flegar a opção ***autorizar rota para envio ao sete***
+
+![image](https://github.com/user-attachments/assets/4d548592-583f-46a6-b31f-ce7b741ec12d)
 
 
 ### Observação
