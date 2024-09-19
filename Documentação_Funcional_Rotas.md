@@ -12,3 +12,6 @@ Por exemplo
 ***PCV0123***
 
 Nosso sistema tem a relação entre a rota e o veículo, logo você já deve ter cadastrar o veículo na ***ABA TRANSPORTE***, para realizar a relação entre ROTA e VEÍCULO.
+
+## Rotas Congeladas
+As rotas congeladas, são as rotas que já foram realizadas.
