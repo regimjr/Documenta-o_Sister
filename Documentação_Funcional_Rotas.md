@@ -11,7 +11,7 @@ Para cadastrar uma nova rota, é necessário garantir que o código da rota cont
 Por exemplo
 ***PCV0123***
 
-Em seguida, nosso sistema tem a relação entre a rota e o veículo, logo você já deve ter cadastrado o veículo na ***Aba Transporte***, para realizar a relação entre ROTA e VEÍCULO. Por consequência, deverá ser escolhido a escola e os alunos que o motorista vai ficar responsável por buscar na casa.
+Em seguida, nosso sistema faz a relação entre a rota e o veículo. Portanto, você já deve ter cadastrado o veículo na aba “Transporte” para realizar a relação entre ***ROTA e VEÍCULO***. Consequentemente, deverá ser escolhida a escola e os alunos que o motorista será responsável por buscar em suas casas.
 
 ## Rotas Congeladas
 As rotas congeladas, são as rotas que já foram realizadas e está tudo certo. Você deve sempre ficar atentar para congeladar as rotas que vão ser realizadas com frequência. Essas rotas congeladas, serão enviadas para o SETE (Sistema Eletrônico de Gestão do Transporte Escolar), que é o programa do governo.
