@@ -6,7 +6,7 @@
 * Rotas Excluidas
 
 ## Nova Rota
-Para realizar o cadastro de uma nova rota, deve-se de seguir a premissa de na hora de cadastrar o código da rota sempre deve conter 3 letrar e 4 números. 
+Para cadastrar uma nova rota, é necessário garantir que o código da rota contenha exatamente 3 letras seguidas por 4 números.
 
 Por exemplo
 ***PCV0123***
