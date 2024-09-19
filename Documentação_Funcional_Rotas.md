@@ -29,4 +29,8 @@ Por exemplo:
 
 ![image](https://github.com/user-attachments/assets/099fb08a-6143-4fe7-83a8-8a478af75856)
 
+![image](https://github.com/user-attachments/assets/1c7efa85-53ec-47e8-b801-af5b817c8acc)
+
+![image](https://github.com/user-attachments/assets/e2c22625-b943-4ec8-94e2-cdb603925596)
+
 
