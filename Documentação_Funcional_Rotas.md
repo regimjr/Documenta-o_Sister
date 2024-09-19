@@ -16,6 +16,18 @@ Em seguida, nosso sistema faz a relação entre a rota e o veículo. Portanto, v
 ## Rotas Congeladas
 As rotas congeladas, são as rotas que já foram realizadas e está tudo certo. Você deve sempre ficar atentar para congeladar as rotas que vão ser realizadas com frequência. Essas rotas congeladas, serão enviadas para o SETE (Sistema Eletrônico de Gestão do Transporte Escolar), que é o programa do governo.
 
+As rotas congeladas devem ser liberadas para enviar para o SETE. 
+
+Passo a passo para liberar a rota no SETE:
+### Primeiro passo:
+Abrir as rotas congeladas e clicar no botão verde, visualizar assim como mostra na imagem
+
+![image](https://github.com/user-attachments/assets/44805f02-1a1c-44f5-9381-cf2dd94cc466)
+
+
+
+
+
 ### Observação
 Para congelar a rota, é preciso antes fazer a análise dela em ***viagens***.
 
