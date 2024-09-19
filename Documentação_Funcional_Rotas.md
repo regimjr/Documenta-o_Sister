@@ -48,6 +48,9 @@ Por exemplo:
 
 Abrimos a aba de viagens e vai ter muitas opções, deve-se selecionar uma viagem que pelo menos tenho uma quantidade de quilometragêm aceitável
 
+# Primeira passo abrir 
+
+Selecionar uma viagem com uma quilometragêm legal
 ![image](https://github.com/user-attachments/assets/099fb08a-6143-4fe7-83a8-8a478af75856)
 
 ![image](https://github.com/user-attachments/assets/1c7efa85-53ec-47e8-b801-af5b817c8acc)
