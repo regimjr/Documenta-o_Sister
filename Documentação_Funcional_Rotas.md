@@ -14,7 +14,7 @@ Por exemplo
 Em seguida, nosso sistema faz a relação entre a rota e o veículo. Portanto, você já deve ter cadastrado o veículo na aba “Transporte” para realizar a relação entre ***ROTA e VEÍCULO***. Consequentemente, deverá ser escolhida a escola e os alunos que o motorista será responsável por buscar em suas casas.
 
 ## Rotas Congeladas
-As rotas congeladas são aquelas que já foram realizadas, possuem o traçado correto, uma quilometragem adequada e atendem aos alunos. Deve-se sempre atentar para congelar as rotas que serão realizadas com frequência. Essas rotas congeladas serão enviadas para o SETE (Sistema Eletrônico de Gestão do Transporte Escolar), que é o programa do governo.
+As rotas congeladas são aquelas que já foram realizadas, possuem o traçado correto, uma quilometragem adequada e atendem aos alunos. Deve-se sempre ficar atenta para congelar as rotas que serão realizadas com frequência. Essas rotas congeladas serão enviadas para o SETE (Sistema Eletrônico de Gestão do Transporte Escolar), que é o programa do governo.
 As rotas congeladas devem ser liberadas para enviar para o SETE. 
 
 Passo a passo para liberar a rota no SETE:
