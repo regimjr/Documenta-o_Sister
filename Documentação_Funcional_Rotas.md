@@ -11,7 +11,7 @@ Para realizar o cadastro de uma nova, deve-se de seguir a premissa de na hora de
 Por exemplo
 ***PCV0123***
 
-Nosso sistema tem a relação entre a rota e o veículo, logo você já deve ter cadastrar o veículo na ***Documentação_Funcional_Transporte.md***, para realizar a relação entre ROTA e VEÍCULO.
+Nosso sistema tem a relação entre a rota e o veículo, logo você já deve ter cadastrar o veículo na ***Aba Transporte***, para realizar a relação entre ROTA e VEÍCULO.
 
 ## Rotas Congeladas
 As rotas congeladas, são as rotas que já foram realizadas.
