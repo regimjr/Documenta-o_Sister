@@ -16,4 +16,5 @@ Em seguida, nosso sistema faz a relação entre a rota e o veículo. Portanto, v
 ## Rotas Congeladas
 As rotas congeladas, são as rotas que já foram realizadas e está tudo certo. Você deve sempre ficar atentar para congeladar as rotas que vão ser realizadas com frequência. Essas rotas congeladas, serão enviadas para o SETE (Sistema Eletrônico de Gestão do Transporte Escolar), que é o programa do governo.
 
+### Observação
 Para congelar a rota, é preciso antes fazer a análise dela em ***viagens***.
