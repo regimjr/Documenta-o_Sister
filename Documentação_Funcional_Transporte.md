@@ -20,6 +20,10 @@ Para realizar essa ação deve seguir o seguinte passo a passo
 
 ![image](https://github.com/user-attachments/assets/49da7b6d-d736-49de-8639-d7870863da62)
 
+Depois de acessar a parte é apenas cadastrar um novo veículo, preenchendo todos esses dados.
+
+![image](https://github.com/user-attachments/assets/ba4539ad-d37d-45aa-8463-e0f711934e22)
+
 
 ## Monitores
 Outro tópico abordado dentro de Transporte é o cadastro de monitores. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se, monitores são as pessoas além do motorista que é responsável por cuidar e prestar suporte para os alunos.
