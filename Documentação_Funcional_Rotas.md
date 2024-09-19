@@ -48,12 +48,20 @@ Por exemplo:
 
 Abrimos a aba de viagens e vai ter muitas opções, deve-se selecionar uma viagem que pelo menos tenho uma quantidade de quilometragêm aceitável
 
-# Primeira passo abrir 
+### Primeira passo 
 
-Selecionar uma viagem com uma quilometragêm legal
+Selecionar uma viagem com um embarque maior que zero e uma quilometragêm legal 
 ![image](https://github.com/user-attachments/assets/099fb08a-6143-4fe7-83a8-8a478af75856)
 
+### Segundo passo
+
+Clicar em visualizar para ter mais detalhes sobre aquela rota
+
 ![image](https://github.com/user-attachments/assets/1c7efa85-53ec-47e8-b801-af5b817c8acc)
+
+### Terceiro passo
+
+Realizar a análise da rota conforme seja mais aceitável para todos
 
 ![image](https://github.com/user-attachments/assets/e2c22625-b943-4ec8-94e2-cdb603925596)
 
