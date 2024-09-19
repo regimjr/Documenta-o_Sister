@@ -33,6 +33,7 @@ Basta flegar a opção ***autorizar rota para envio ao sete***
 
 ![image](https://github.com/user-attachments/assets/4d548592-583f-46a6-b31f-ce7b741ec12d)
 
+Depois de realizar o passo a passo basta ***salvar alterações***.
 
 ### Observação
 Para congelar a rota, é preciso antes fazer a análise dela em ***viagens***.
