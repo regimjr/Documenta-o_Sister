@@ -59,7 +59,7 @@ Abrimos a aba de viagens e vai ter muitas opções, deve-se selecionar uma viage
 ### Primeira passo 
 
 Selecionar uma viagem com um embarque maior que zero e uma quilometragêm legal 
-![image](https://github.com/user-attachments/assets/099fb08a-6143-4fe7-83a8-8a478af75856)
+![image](https://github.com/user-attachments/assets/dd9e7808-39fb-43fb-9678-1ea1ecbbc078)
 
 ### Segundo passo
 
