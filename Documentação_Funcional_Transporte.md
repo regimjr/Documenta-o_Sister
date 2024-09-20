@@ -24,6 +24,8 @@ Depois de acessar a parte é apenas cadastrar um novo veículo, preenchendo todo
 
 ![image](https://github.com/user-attachments/assets/c3bb92e8-3bb2-4b62-9894-d48dc98921cd)
 
+Após realizar esse processo, você deve autorizar o motorista a fazer uma rota.
+
 ## Monitores
 Outro tópico abordado dentro de Transporte é o cadastro de monitores. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se, monitores são as pessoas além do motorista que é responsável por cuidar e prestar suporte para os alunos.
 
