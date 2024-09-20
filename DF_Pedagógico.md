@@ -12,12 +12,15 @@ Essa é a área voltada para o cadastro e manutenção de alunos, para realizar 
 ### Alocar aluno em uma série
 
 Primeiro vamos em Ver mais
+
 ![image](https://github.com/user-attachments/assets/239051f9-6389-4250-b6ea-7ebb0f2fa46a)
 
 Depois iremos na aba Pedagógico
+
 ![image](https://github.com/user-attachments/assets/5a68ac3a-ed4a-4a5d-b27f-c04aec805b41)
 
 Realizaremos a alocação nessa página que vai aparecer quando abrir a aba Pedagógico
+
 ![image](https://github.com/user-attachments/assets/e04f2efe-2c45-48ae-bf31-ae48a26b1eaf)
 
 
