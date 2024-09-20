@@ -33,4 +33,12 @@ Preencher os dados corretamente e salvar, conforme é demonstrado a seguir
 
 ![image](https://github.com/user-attachments/assets/c8be25d9-373c-49ec-bf81-f033a948a0cf)
 
+## Escolar 
+Dentro da escolar temos ao decorrer as seguintes opções
+*Turmas
+*Disciplinas
+*Professores
+*Diário de Classe
+*Horário de aulas
+
  
