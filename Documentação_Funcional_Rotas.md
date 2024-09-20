@@ -27,11 +27,13 @@ Abrir as rotas congeladas e clicar no botão verde, visualizar assim como mostra
 ![image](https://github.com/user-attachments/assets/44805f02-1a1c-44f5-9381-cf2dd94cc466)
 
 ### Segundo passo: 
+
 É necessário seguir clicando em alterar dados da rota
 
 ![image](https://github.com/user-attachments/assets/4f6d1690-42f8-4a64-a8fb-82cfcbe16ce9)
 
 ### Terceiro passo:
+
 Basta flegar a opção ***autorizar rota para envio ao sete***
 
 ![image](https://github.com/user-attachments/assets/4d548592-583f-46a6-b31f-ce7b741ec12d)
@@ -39,6 +41,7 @@ Basta flegar a opção ***autorizar rota para envio ao sete***
 Depois de realizar o passo a passo basta ***salvar alterações***.
 
 #### Observação
+
 Para congelar a rota, é preciso antes fazer a análise dela em ***viagens***.
 
 
@@ -69,5 +72,25 @@ Clicar em visualizar para ter mais detalhes sobre aquela rota
 Realizar a análise da rota conforme seja mais aceitável para todos
 
 ![image](https://github.com/user-attachments/assets/e2c22625-b943-4ec8-94e2-cdb603925596)
+
+
+## Rotas Excluídas
+A realizações de rotas que não vão ser utilizadas e precisam ser excluídas vão ficar armazendas nessa aba. 
+Para excluir essa rota, primeiro ela deve estar congelada como é demostrado a seguir:
+
+### Primeiro passo:
+
+Vamos acessar as rotas congeladas e procurar a rota que queremos excluir
+
+![image](https://github.com/user-attachments/assets/16111244-bbcf-4ebc-baab-37fabafe9ce1)
+
+### Segundo passo:
+
+Apenas clicar em "Sim, remover"
+
+![image](https://github.com/user-attachments/assets/c72f8e87-200a-4768-99f7-bdbaf218419a)
+
+
+
 
 
