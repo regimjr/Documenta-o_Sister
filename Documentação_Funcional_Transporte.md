@@ -2,7 +2,7 @@
 * Fazendas
 * Motorista
 * Monitores
-* App Motoristas
+* App Motorista
 * Tipo De Frota
 
 ## Fazendas
