@@ -24,4 +24,13 @@ Realizaremos a alocação nessa página que vai aparecer quando abrir a aba Peda
 ![image](https://github.com/user-attachments/assets/0b84e233-f401-4ec4-8f7b-7b7d377d12fa)
 
 ## Escolas
+
+O cadastro de escola é realizada da seguinte maneira:
+
+![image](https://github.com/user-attachments/assets/380bc3ae-f53e-4080-bb11-ca9495b4109d)
+
+Preencher os dados corretamente e salvar, conforme é demonstrado a seguir
+
+![image](https://github.com/user-attachments/assets/c8be25d9-373c-49ec-bf81-f033a948a0cf)
+
  
