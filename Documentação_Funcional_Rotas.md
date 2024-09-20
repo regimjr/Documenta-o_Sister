@@ -90,7 +90,6 @@ Apenas clicar em "Sim, remover"
 
 ![image](https://github.com/user-attachments/assets/c72f8e87-200a-4768-99f7-bdbaf218419a)
 
+### Terceiro passo:
 
-
-
-
+Faça o check na aba de ***Rotas Excluidas***
