@@ -14,6 +14,8 @@ Para obter a localização mais precisa da fazenda, peça ao motorista para comp
 ## Motoristas
 Outro tópico abordado dentro de Transporte é o cadastro de motoristas. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se à qualidade da foto que deve ser inserida do documento, contendo todos os dados e que os mesmos estejam legíveis.
 
+Sempre bom relembrar, que o e-mail e a senha que for cadastrada vai ser utilizada pelo motorista para abrir o APP Sister Motorista. 
+
 ### Observação
 Depois de cadastrar o motorista é necessário cadastrar e relacionar o motorista à um veículo.
 Para realizar essa ação deve seguir o seguinte passo a passo
