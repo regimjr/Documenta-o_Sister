@@ -21,7 +21,8 @@ Depois iremos na aba Pedagógico
 
 Realizaremos a alocação nessa página que vai aparecer quando abrir a aba Pedagógico
 
-![image](https://github.com/user-attachments/assets/e04f2efe-2c45-48ae-bf31-ae48a26b1eaf)
+![image](https://github.com/user-attachments/assets/0b84e233-f401-4ec4-8f7b-7b7d377d12fa)
+
 
 
 
