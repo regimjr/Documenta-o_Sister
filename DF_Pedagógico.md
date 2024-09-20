@@ -35,10 +35,10 @@ Preencher os dados corretamente e salvar, conforme é demonstrado a seguir
 
 ## Escolar 
 Dentro da escolar temos ao decorrer as seguintes opções
-*Turmas
-*Disciplinas
-*Professores
-*Diário de Classe
-*Horário de aulas
+* Turmas
+* Disciplinas
+* Professores
+* Diário de Classe
+* Horário de aulas
 
  
