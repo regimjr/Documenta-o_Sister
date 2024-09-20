@@ -23,7 +23,5 @@ Realizaremos a alocação nessa página que vai aparecer quando abrir a aba Peda
 
 ![image](https://github.com/user-attachments/assets/0b84e233-f401-4ec4-8f7b-7b7d377d12fa)
 
-
-
-
-## 
+## Escolas
+ 
