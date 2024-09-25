@@ -5,6 +5,9 @@
 * App Motorista
 * Tipo De Frota
 
+## Sobre a Aba Transporte
+Nela você vai conseguir ter acesso para cadastrar e editar informações a cerca dos prestadores de serviço.
+
 ## Fazendas
 Para realizar o cadastro das fazendas, além dos requisitos básicos, o mais importante é a **latitude** e **longitude** para conseguirmos informar, da maneira mais precisa possível, onde está localizada aquela propriedade. Para realizar o cadastro, basta pressionar o botão verde.
 
