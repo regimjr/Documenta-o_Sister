@@ -6,7 +6,7 @@
 * Rotas Excluidas
 
 ## Sobre Rotas
-A aba de rotas é o coração do nosso sistema, básicamente é o motivo para o desenvolvimento da empresa SISTER. Aqui é o lugar onde vai ser cadastrar a rota conforme você achar melhor.
+A aba de rotas é o coração do nosso sistema, básicamente é o motivo para o desenvolvimento da empresa SISTER. Aqui é o lugar onde vai ser possível cadastrar a rota conforme você achar melhor.
 
 ## Nova Rota
 Para cadastrar uma nova rota, é necessário garantir que o código da rota contenha exatamente 3 letras seguidas por 4 números.
