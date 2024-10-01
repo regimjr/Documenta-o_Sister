@@ -22,6 +22,8 @@ As rotas congeladas são aquelas que já foram realizadas, possuem o traçado co
 
 ### Como congelar uma rota?
 
+Para congelar uma rota o passo a passo é bem simples.
+Você deve entrar dentro de ROTA na aba Viagens
 
 
 As rotas congeladas devem ser liberadas para enviar para o SETE. 
