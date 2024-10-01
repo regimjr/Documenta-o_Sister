@@ -23,8 +23,11 @@ As rotas congeladas são aquelas que já foram realizadas, possuem o traçado co
 ### Como congelar uma rota?
 
 Para congelar uma rota o passo a passo é bem simples.
-Você deve entrar dentro de ROTA na aba Viagens
+Você deve entrar dentro de ROTA na aba Viagens e vai abrir a seguinte página
 
+![image](https://github.com/user-attachments/assets/80f1d9fc-981a-4a7d-b189-b3631538cce3)
+
+Você deve clicar em visualizar para analisar a ROTA.
 
 As rotas congeladas devem ser liberadas para enviar para o SETE. 
 
