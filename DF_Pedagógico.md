@@ -36,7 +36,9 @@ Preencher os dados corretamente e salvar, conforme é demonstrado a seguir
 ## Escolar 
 Dentro da escolar temos ao decorrer as seguintes opções
 * Turmas
+
 Trata a respeito da série que os alunos estão, esse ponto vale ressaltar que deve ser preenchido corretametne, devido ser um dado que vai ser enviado para o SETE.
+
 * Disciplinas
 * Professores
 * Diário de Classe
