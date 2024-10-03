@@ -40,7 +40,13 @@ Dentro da escolar temos ao decorrer as seguintes opções
 Trata a respeito da série que os alunos estão, esse ponto vale ressaltar que deve ser preenchido corretamente, devido ser um dado que vai ser enviado para o SETE.
 
 * Disciplinas
+
+Matérias que são ofertadas pelas escolas, importante vincular a disciplina ofertado aos professores.
+
 * Professores
+
+Professores que lecionam na escola.
+
 * Diário de Classe
 * Horário de aulas
 
