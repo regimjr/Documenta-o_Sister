@@ -14,3 +14,4 @@ Apos cadastrar todas as turmas que possui a escola podemos partir para o cadastr
 ## 4. Quarto passo
 Por fim podemos partir para a criação de rota que serão exportadas para o SETE.
 
+
