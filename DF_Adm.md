@@ -35,7 +35,7 @@ Dentro da área que você necessita preencher fique atento ao tipo de usuário q
 
 
 ### Prefeitura
-O segundo tópico dentro de *Administração* vai se tratar do campo que demonstra o munícipio ao qual você pertence.
+O segundo tópico dentro de *Administração* vai se tratar do campo que demonstra o munícipio ao qual você pertence, essa parte o usuário não vai precisar mexer, isso é com a equipe da sister.
 
 ### Sincronização
 O últímo tópico está relacionado com a ferramenta do GOVERNO chamada de SETE. A sincronização está relacionado com a trasnferência dos dados que coletamos durante as rotas como número de aluno, rotas, motoristas, veículos e entre outros.
