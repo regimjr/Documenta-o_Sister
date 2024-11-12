@@ -1,8 +1,4 @@
-# Dicas 
+# Recomendações
 
-Para facilitar a vida do usuário na hora do suporte, alguns pontos são importantes para acelerar o processo de suporte e de atendimento.
-
-* Planejamento
-* Organização
-* Mensagem clara e objetiva
+O jeito que a equipe de suporte da SISTER, recomendo preencher o sistema é da seguinte maneira. Primeiro vamos começar com o básico cadastrando os motoristas e veículos.
 
