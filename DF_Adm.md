@@ -2,7 +2,7 @@
 
 A Sister é uma empresa que visa a otimização de rotas para auxiliar as prefeituras municipais no transporte escolar. 
 
-Para começar a utilizar o SISTER, é importante primeiro cadastrar os veículos, motoristas, escolas e alunos antes de começar a realizar as rotas. Depois de preencher o sistema com as informações corretas podemos partir para as rotas.
+Para começar a utilizar o SISTER, é importante primeiro cadastrar os veículos, motoristas, escolas e alunos antes de começar a realizar as rotas. Depois de preencher o sistema com as informações corretas podemos partir para as rotas. 
 
 A seguir, você encontra mais informações sobre: 
 
@@ -12,7 +12,7 @@ A seguir, você encontra mais informações sobre:
 * Sincronização  
 
 ### Sobre como funciona essa área da administração 
-O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site.
+O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site como o gestor municipal, professor ou até mesmo gestor estadual.
 
 ### Usuários
 1. Primeiro item
