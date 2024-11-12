@@ -9,5 +9,5 @@ Vamos começar com o básico, cadastrando os motoristas e veículos.
 Cadastrar a área pedagógica começando por escolas e consequentemente pelas respectivas turmas que a escola possui.
 
 ## Terceiro passo
-Apos cadastrar todas as turmas que possui 
+Apos cadastrar todas as turmas que possui a escola podemos partir para o cadastro dos alunos.  
 
