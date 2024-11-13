@@ -12,6 +12,4 @@ Cadastrar a área pedagógica começando por escolas e consequentemente pelas re
 Apos cadastrar todas as turmas que possui a escola podemos partir para o cadastro dos alunos. Diante disso, é muito importante salvar esses dados cadastrais em uma planilha contendo todas as informações cruciais para caso venha ocorrer algum problema. 
 
 ## 4. Quarto passo
-Por fim podemos partir para a criação de rota que serão exportadas para o SETE.
-
-
+Por fim podemos partir para a criação de rota e o congelamento da mesma apos serem realizadas.
