@@ -38,7 +38,7 @@ Após realizar esse processo, você deve autorizar o motorista a fazer uma rota,
 Outro tópico abordado dentro de Transporte é o cadastro de monitores. Para realizar tal feito, deve-se ficar atento ao cadastro dos dados de forma coerente e correta. Atente-se, monitores são as pessoas além do motorista que é responsável por cuidar e prestar suporte para os alunos.
 
 ## APP Motorista
-Essa aba, demonstra o simples fato do jeito que deve ser realizado o CHECK-IN do aluno que utilizar o serviço.
+Essa aba, demonstra o simples fato do jeito que deve ser realizado a chamada do aluno que utilizar o serviço.
 
 ## Tipo De Frota
 A câmera municipal deve informar os possíveis tipos de frota, como por exemplo, se é frota da própria prefeitura ou se é frota terceirizada.
