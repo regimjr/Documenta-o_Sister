@@ -20,3 +20,13 @@ Os Não Embarcados e Faltantes temos alunos que estão em uma rota mas não fora
 Os Não Alocados são alunos que estão no sistema SISTER mas não estão em uma rota.
 
 As Presenças são aquelas crianças que responderam a chamada da rota que o motorista fez, seja ela pelo aplicativo, reconhecimento facial e entre outros. 
+
+## Escolar
+
+Dentro de ***Escolar*** temos três possíveis relatórios a serem gerados, que são a frequência, aulas previstas e aulas dadas.
+
+Sobre a frequência é auto intuitivo de quando o aluno foi na aula.
+
+Aulas previstas são as aulas que o aluno vai possuir durante aquela semana.
+
+Aulas dadas foram as aulas que foram ministradas por professores em determinado período de tempo.
