@@ -34,3 +34,9 @@ Aulas dadas foram as aulas que foram ministradas por professores em determinado 
 ## Avaliações
 
 Na opção de exportar um relatório referente a avaliações, é tudo à respeito da avaliação do motorista.
+
+
+## Financeiro
+
+Os relatórios da área do financeiro está atrelado com todo tipo de custa gerado na viagem. Ele contém vaigens, gastos veículos, custo médio e GPS Horario.
+
