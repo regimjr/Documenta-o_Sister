@@ -1,8 +1,5 @@
 # Aba Administração
 
-## Sobre como funciona essa área da administração 
-O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site como o gestor municipal, professor ou até mesmo gestor estadual.
-
 ## Usuários
 1. Primeiro item
 Vamos entrar no https://pub.sister.app.br/#/user/list
