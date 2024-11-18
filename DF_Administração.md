@@ -1,4 +1,6 @@
 # Aba Administração
+Dentre da funcionalidade de administração a única opção que pode ser utilizada é a de usuários portanto, não se deve preocupar muito com os outros aspectos.
+
 
 ## Usuários
 1. Primeiro item
