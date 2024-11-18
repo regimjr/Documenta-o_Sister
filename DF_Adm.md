@@ -11,6 +11,13 @@ A seguir, você encontra mais informações sobre:
 * Prefeituras
 * Sincronização  
 
+## Aba Transporte 
+* Fazendas
+* Motorista
+* App Motorista
+* Tipo de Frota
+  
+
 ### Sobre como funciona essa área da administração 
 O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site como o gestor municipal, professor ou até mesmo gestor estadual.
 
