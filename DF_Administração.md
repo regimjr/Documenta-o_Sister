@@ -1,9 +1,9 @@
-## Aba Administração
+# Aba Administração
 
-### Sobre como funciona essa área da administração 
+## Sobre como funciona essa área da administração 
 O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site como o gestor municipal, professor ou até mesmo gestor estadual.
 
-### Usuários
+## Usuários
 1. Primeiro item
 Vamos entrar no https://pub.sister.app.br/#/user/list
 Logo em seguida vamos ser direcionado para a página inicial do site SISTER, em sequência devemos seguir clicar em Administração e depois em Usuários.
@@ -23,10 +23,10 @@ Vai abrir a seguinte página, você deve preencher conforme as informações do 
 Dentro da área que você necessita preencher fique atento ao tipo de usuário que vai selecionar.
 
 
-### Prefeitura
+## Prefeitura
 O segundo tópico dentro de *Administração* vai se tratar do campo que demonstra o munícipio ao qual você pertence, essa parte o usuário não vai precisar mexer, isso é com a equipe da sister.
 
-### Sincronização
+## Sincronização
 O últímo tópico está relacionado com a ferramenta do GOVERNO chamada de SETE. A sincronização está relacionado com a trasnferência dos dados que coletamos durante as rotas como número de aluno, rotas, motoristas, veículos e entre outros.
 
 O SETE é uma ferramenta do desenvolvida por uma Universidade Federal voltado a auxiliar na gestão do transporte escolar de estados, municípios.
