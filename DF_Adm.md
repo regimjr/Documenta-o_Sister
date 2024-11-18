@@ -16,7 +16,25 @@ A seguir, você encontra mais informações sobre:
 * Motorista
 * App Motorista
 * Tipo de Frota
-  
+
+## Aba Rotas
+* Nova Rota
+* Rotas congeladas
+* Rotas previstas
+* Viagens
+* Rotas Excluidas
+
+## Pedagógico
+* Alunos
+* Escolas
+* Escolar
+
+## Relatórios
+
+## Comunicações
+
+## Rotas Excluídas
+
 
 ### Sobre como funciona essa área da administração 
 O primeiro login que vamos gerar vem a partir da equipe SISTER. Depois disso, a gestor municipal vai poder criar os demais usuários para utilizarem o site como o gestor municipal, professor ou até mesmo gestor estadual.
