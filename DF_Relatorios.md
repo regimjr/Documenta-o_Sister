@@ -30,3 +30,7 @@ Sobre a frequência é auto intuitivo de quando o aluno foi na aula.
 Aulas previstas são as aulas que o aluno vai possuir durante aquela semana.
 
 Aulas dadas foram as aulas que foram ministradas por professores em determinado período de tempo.
+
+## Avaliações
+
+Na opção de exportar um relatório referente a avaliações, é tudo à respeito da avaliação do motorista.
