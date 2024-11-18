@@ -26,7 +26,7 @@ Dentro da área que você necessita preencher fique atento ao tipo de usuário q
 O segundo tópico dentro de *Administração* vai se tratar do campo que demonstra o munícipio ao qual você pertence, essa parte o usuário não vai precisar mexer, isso é com a equipe da sister.
 
 ## Sincronização
-O últímo tópico está relacionado com a ferramenta do GOVERNO chamada de SETE. A sincronização está relacionado com a trasnferência dos dados que coletamos durante as rotas como número de aluno, rotas, motoristas, veículos e entre outros.
+O últímo tópico está relacionado com a ferramenta do GOVERNO chamada de SETE. A sincronização está relacionado com a trasnferência dos dados que coletamos durante as rotas como número de aluno, escolas, motoristas, veículos e rotas.
 
 O SETE é uma ferramenta do desenvolvida por uma Universidade Federal voltado a auxiliar na gestão do transporte escolar de estados, municípios.
 
@@ -35,4 +35,4 @@ O SETE é uma ferramenta do desenvolvida por uma Universidade Federal voltado a 
 2. Segundo item
    Em seguida, você deve aguardar para seu login ser aceito. Assim que aceito você envia para o pessoal da SISTER realizar a sincronização.
 
-Apos realizar esse passo a passo, a sincronização passa a ser parte da equipe SISTER e somos nós que realizamos as atualizações para o governo.
+Apos realizar esse passo a passo, a sincronização passa a ser parte da equipe SISTER e somos nós que realizamos as atualizações para o governo. Sua única preocupação vai ser o preenchimento correto dos dados na plataforma do SISTER.
