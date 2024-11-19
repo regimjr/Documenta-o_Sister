@@ -40,3 +40,7 @@ Na opção de exportar um relatório referente a avaliações, é tudo à respei
 
 Os relatórios da área do financeiro está atrelado com todo tipo de custa gerado na viagem. Ele contém vaigens, gastos veículos, custo médio e GPS Horario.
 
+Falando sobre as viagens, são resumidamente aquelas que contém as informações mais básicas como motorista, cidade, data e horário do inicio e fim da rota.
+
+
+
