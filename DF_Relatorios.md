@@ -42,5 +42,5 @@ Os relatórios da área do financeiro está atrelado com todo tipo de custa gera
 
 Falando sobre as viagens, são resumidamente aquelas que contém as informações mais básicas como motorista, cidade, data e horário do inicio e fim da rota.
 
-
+Gastos veículos são onde é possível gerar o relatório com o valor que ficou a rota, mostrando a quilometragem e o preço que aquela respectiva rota teve no seu final.  
 
