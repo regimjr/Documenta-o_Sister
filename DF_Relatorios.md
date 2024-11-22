@@ -44,3 +44,7 @@ Falando sobre as viagens, são resumidamente aquelas que contém as informaçõe
 
 Gastos veículos são onde é possível gerar o relatório com o valor que ficou a rota, mostrando a quilometragem e o preço que aquela respectiva rota teve no seu final.  
 
+Custo médios é simplesmente o valor que fica a rota por aluno.
+
+GPS Horario é uma aba aonde conseguimos ver a rota que o motorista fez, através do GPS. O mesmo é instalado no carro e é possível acompanhar em tempo real mesmo o motorista estando sem internet.
+
