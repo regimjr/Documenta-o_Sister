@@ -54,3 +54,10 @@ O relatório de estado é a forma que vai trazer algumas informações que o gov
 
 ![image](https://github.com/user-attachments/assets/2389bdc2-fea8-4485-b7ba-5b802b1ca950)
 
+## GPS/Veículo
+
+A sister disponibiliza o GPS para o uso de acompanhamento de rota até mesmo offline, mesmo que o motorista esteja sem internet no celular conseguimos monitorar por meio do gps dentro do meio de transporte.
+
+## Viagens/CONTRAF
+
+
