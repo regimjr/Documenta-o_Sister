@@ -48,3 +48,9 @@ Custo médios é simplesmente o valor que fica a rota por aluno.
 
 GPS Horario é uma aba aonde conseguimos ver a rota que o motorista fez, através do GPS. O mesmo é instalado no carro e é possível acompanhar em tempo real mesmo o motorista estando sem internet.
 
+## Estado 
+
+O relatório de estado é a forma que vai trazer algumas informações que o governo pede.
+
+![image](https://github.com/user-attachments/assets/2389bdc2-fea8-4485-b7ba-5b802b1ca950)
+
