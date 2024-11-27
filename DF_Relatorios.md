@@ -60,4 +60,5 @@ A sister disponibiliza o GPS para o uso de acompanhamento de rota até mesmo off
 
 ## Viagens/CONTRAF
 
+O contraf disponibiliza um relatório por motorista em um determinado período que é escolhido que vai trazer as seguintes informações, horário de início e final, hodômetro inicial e final, quilometragêm percorrida, número de alunos coletados, veículo e destino.
 
