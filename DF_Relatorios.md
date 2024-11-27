@@ -7,7 +7,7 @@
 * Gps/Veículo
 * Viagens/Contraf
 
-Na aba Relatórios é o lugar onde podemos exportar pontos para serem análisados e perceber se há algo de errado.
+Na aba Relatórios é o lugar onde podemos exportar pontos para serem analisados e perceber se há algum erro.
 
 ## Alunos
 
